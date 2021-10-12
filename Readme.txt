@@ -3,7 +3,7 @@
 EzShopping is a application that allow users to view product and allow merchant to add product
  with Authorization.
 
-## Video: https://youtu.be/A1AUIVLgfLU
+######## VIDEO: https://youtu.be/A1AUIVLgfLU ############
 
 ## Usage
 
