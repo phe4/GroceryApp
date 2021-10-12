@@ -1,0 +1,24 @@
+I am the shopkeeper of a supermarket. Our merchandise sales have fallen due to the current
+COVID-19 situation, because more and more consumers prefer to order online to keep social distance.
+
+I need an application that I and my customers can run on our phone. Here are some requirements:
+
+I want my customers to be able to see the list of products that are updated asynchronously,
+including availability and product information.
+
+I want my customers to be able to preview product images and overviews through this app, and
+increase/decrease the number of products they want to add to the cart with simple +/- buttons.
+
+I want my customers to be able to re-edit the number of items on the shopping cart page.
+
+I want my customers to be able to place their order on the cart page and choose the
+delivery time and address.
+
+I want to have a separate customer account information page in this application so that 
+customers can change personal information such as adding/removing addresses and phone numbers
+
+I want the app to send customer orders to my mailbox so that I can process them in time.
+
+I want the application to summarize the sales volume of each product to me every day so that 
+I can analyze the profit and purchase.
+
